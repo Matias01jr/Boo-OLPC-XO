@@ -1,0 +1,9 @@
+[Activity]
+name = Boo
+service_name = com.trojanchicken.boo
+icon = icon.sugar
+activity_version = 1
+host_version = 1
+show_launcher = yes
+exec = launch
+bundle_id = com.trojanchicken.boo
